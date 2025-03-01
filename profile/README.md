@@ -1,7 +1,5 @@
 # Welcome to DevigoTech
 
-![DevigoTech Banner](https://your-image-link.com/banner.png)
-
 ## About Us
 
 At **DevigoTech**, we are passionate about delivering innovative software solutions that drive business success. Our team of skilled developers and designers collaborates to create cutting-edge applications tailored to meet the unique needs of our clients.
@@ -24,8 +22,8 @@ Here are some of our notable projects:
 
 ## Connect With Us
 
-- **Website**: 
-- **LinkedIn**: 
-- **Twitter**: 
+- **Website**: [https://www.devigotech.in](www.devigotech.in)
+- **LinkedIn**: [https://www.linkedin.com/company/devigotech](www.linkedin.com/company/devigotech/)
+- **Twitter**: [https://x.com/DevigoTech](https://x.com/DevigoTech)
 
 Thank you for visiting **DevigoTech**. We look forward to collaborating with you!
