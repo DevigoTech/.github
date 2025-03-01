@@ -22,8 +22,8 @@ Here are some of our notable projects:
 
 ## Connect With Us
 
-- **Website**: [https://www.devigotech.in](www.devigotech.in)
-- **LinkedIn**: [https://www.linkedin.com/company/devigotech](www.linkedin.com/company/devigotech/)
-- **Twitter**: [https://x.com/DevigoTech](https://x.com/DevigoTech)
+- **Website**: [www.devigotech.in](https://www.devigotech.in)
+- **LinkedIn**: [www.linkedin.com/company/devigotech](https://www.linkedin.com/company/devigotech/)
+- **Twitter**: [x.com/DevigoTech](https://x.com/DevigoTech)
 
 Thank you for visiting **DevigoTech**. We look forward to collaborating with you!
